@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fotball Agency Sierra Leone</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <nav>
+
+        <ul>
+            <a href="#About">Home</a> 
+            <a href="#">About</a> 
+            <a href="#matches">Matches</a> 
+            <a href="#contact">Contact</a>
+            <a href="#Players">Players</a>  
+            </ul>
+        </nav>
+        
+        <section id="Home">
+<h1>Welcome to Fotball Agency Sierra Leone</h1>
+<p>Your trusted partner in football talent management and representation.</p>
+
+
+
+        </section>
+        <section id="About">
+        <h2>About Fotball Agency Sierra Leone</h1>
+        <p>Football Agency Sierra Leone is a premier football agency dedicated to nurturing and promoting football talent in Sierra Leone and beyond. Our mission is to provide exceptional representation and career management services to football players, helping them achieve their professional goals both on and off the field.</p>
+        <p>With a team of experienced agents and industry professionals, we offer comprehensive services including player scouting, contract negotiation, career development, and marketing. We are committed to fostering strong relationships with clubs, coaches, and other stakeholders in the football community to create opportunities for our clients.</p>
+        <p>At Fotball Agency Sierra Leone, we believe in the power of football to transform lives and communities. We are passionate about supporting young talent and providing them with the resources and guidance they need to succeed in the competitive world of professional football.</p>
+        <p>Join us on our journey to elevate Sierra Leonean football talent to new heights!</p>
+        <button>Learn More</button>
+            </section>
+
+        <section id="Players">
+        <h3>Our Players</h3>
+        <p>We represent a diverse roster of talented football players across various age groups and skill levels. Our players are committed to excellence both on and off the field, and we take pride in their achievements and growth.</p>
+        <ul>
+           <li> <img src="/football.jpeg" alt="A young Sierra Leonean Player">
+            <p>David M Kamara</p>
+            <p>Position: Forward</p>
+            <p>Club: FC Sierra Leone</p>
+            <p>Bio: David is a dynamic forward known for his speed and agility. He has represented Sierra Leone at the U-20 level and is a rising star in the national football scene
+        </li>
+        <li>
+            <img src="/Kei.jpeg" alt="A young Sierra Leonean Player">
+            <p>Kei Kamara</p>
+            <p>Position: Striker</p>
+            <p>Club: LA Galaxy</p>  
+            <p>Bio: Kei is an experienced striker with a proven track record in Major League Soccer. He has been a key player for the Sierra Leone national team and brings leadership and skill to the pitch.</p>
+            <button>View Profile</button>
+        </li>
+        </li>
+            </ul>
+
+        <section id="contact"> 
+        <h3>Contact Us</h3>
+        <p>If you would like to learn more about our agency, our players, or how we can assist you, please don't hesitate to reach out to us.</p>
+        <a href="tel:+232 75087147">Phone: +232 75087147</a>
+    </section>
+
+        </section>
+
+
+
+    </body>
+</html>
