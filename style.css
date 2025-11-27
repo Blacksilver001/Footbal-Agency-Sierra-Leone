@@ -1,0 +1,43 @@
+/* NAV CONTAINER */
+#nav-bar {
+    display: flex;
+    justify-content: space-between;  /* Logo left, menu right */
+    align-items: center;
+    padding: 10px 40px;
+    background-color: #0D0C22;  /* Deep premium navy */
+}
+
+/* NAV LIST (UL) */
+#nav-bar ul {
+    list-style: none;
+    display: flex;
+    gap: 40px; /* Spacing between items */
+    margin: 0;
+    padding: 0;
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    padding: 10px 0;
+    display: inline-block;
+}
+
+
+#nav-bar a:hover {
+    color: #D4AF37; /* Premium gold hover */
+    transition: 0.3s ease;
+}
+
+/* LOGO */
+#logo {
+    height: 50px;
+    width: auto;
+}
+.hero {
+    background-image: url(Firefly_Gemini\ Flash_Improve\ the\ quality\ of\ this\ imae\ 986644.png);
+    height: 850px;
+    background-size: cover;
+
+}
